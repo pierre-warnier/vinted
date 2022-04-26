@@ -1,2 +1,2 @@
-# vinted
-Create an image dataset from vinted.com
+# Vinted image dataset
+Create an image dataset from Vinted.
